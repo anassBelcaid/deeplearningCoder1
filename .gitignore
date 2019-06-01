@@ -1,3 +1,4 @@
 data/*
-nbs/.ipynb_checkpoints
+nbs/dl1/.ipynb_checkpoints
 nbs/numerical_linear_algebra/.ipynb_checkpoints
+nbs/data/*
