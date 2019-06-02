@@ -9,3 +9,5 @@
 
 1. [Topic modeling][nbs/numerical_linear_algebra/2. Topic Modeling with NMF
    and SVD.ipynb]
+1.1 [NMF with
+pytorch](./nbs/numerical_linear_algebra/Lesson2_Application_NMF_numpy_torch.ipynb)
