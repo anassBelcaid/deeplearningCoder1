@@ -7,6 +7,8 @@
 3. [data_block API](./nbs/dl1/Lesson3_DataBlock_API.ipynb)
 3.1 [Berkley Segmentation datat using
 datablock](./nbs/dl1/Lesson3_Edge_Detection.ipynb)
+3.2 [MultiLabel Classification
+](./nbs/dl1/Lesson3_Multi_label_classification.ipynb)
 
 # Numerical Linear algebra
 
