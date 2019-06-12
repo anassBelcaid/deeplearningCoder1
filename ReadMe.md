@@ -14,6 +14,7 @@
 
 4. **lesson4**:
   * [IMDB sentiment analysis](./nbs/dl1/Lesson3_IMDB.ipynb)
+  * [Tabular Data](./nbs/dl1/Lesson4_tabular.ipynb)
 
 
 
