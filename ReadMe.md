@@ -20,6 +20,9 @@
 5. *Lesson5*:
   * [Mnisti with SGD](../my_repo/nbs/dl1/Lesson5-SGD-MNIST.ipynb)
 
+6. *Lesson6:
+  * [clearning rossmann data](./nbs/dl1/lesson6-rossman-data-clean.ipynb)
+
 
 # Numerical Linear algebra
 1. [Topic modeling](./nbs/numerical_linear_algebra/2. Topic Modeling with NMF and SVD.ipynb)
