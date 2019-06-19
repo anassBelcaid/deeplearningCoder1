@@ -21,7 +21,8 @@
   * [Mnisti with SGD](../my_repo/nbs/dl1/Lesson5-SGD-MNIST.ipynb)
 
 6. *Lesson6:
-  * [clearning rossmann data](./nbs/dl1/lesson6-rossman-data-clean.ipynb)
+  * [clearning rossmann data](http://www.url.com)
+  * [Tabular Data Learner Rosmann](./nbs/dl1/Lesson6-Rossman-tabular.ipynb)
 
 
 # Numerical Linear algebra
