@@ -22,7 +22,8 @@
 
 6. *Lesson6:
   * [clearning rossmann data](http://www.url.com)
-  * [Tabular Data Learner Rosmann](./nbs/dl1/Lesson6-Rossman-tabular.ipynb)
+  * [Tabular Data Learner Rosmann](./nbs/)
+  * [Pets Revisited](./nbs/dl1/Lesson6-Pets-more.ipynb)
 
 
 # Numerical Linear algebra
