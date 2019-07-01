@@ -17,7 +17,13 @@
   * [Tabular Data](./nbs/dl1/Lesson4_tabular.ipynb)
   * [Collaborating filtering](./nbs/dl1/Lesson4_Collaborative_Filtering.ipynb)
 
+5. *Lesson5*:
+  * [Mnisti with SGD](../my_repo/nbs/dl1/Lesson5-SGD-MNIST.ipynb)
 
+6. *Lesson6:
+  * [clearning rossmann data](http://www.url.com)
+  * [Tabular Data Learner Rosmann](./nbs/)
+  * [Pets Revisited](./nbs/dl1/Lesson6-Pets-more.ipynb)
 
 
 # Numerical Linear algebra
