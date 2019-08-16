@@ -29,3 +29,10 @@
 # Numerical Linear algebra
 1. [Topic modeling](./nbs/numerical_linear_algebra/2. Topic Modeling with NMF and SVD.ipynb)
 1.1 [NMF with pytorch](./nbs/numerical_linear_algebra/Lesson2_Application_NMF_numpy_torch.ipynb)
+
+2. [Background removal with Robust PCA](./nbs/numerical_linear_algebra/Lesson4_background_removal.ipynb)
+2.1 Load a movie data
+2.2 SVD
+2.3 Principal Component Analysis (PCA)
+2.4 L1 norm induces sparscity
+2.5 Robust PCA
