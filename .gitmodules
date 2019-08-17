@@ -1,0 +1,3 @@
+[submodule "documents/cnn_arithmetic"]
+	path = documents/cnn_arithmetic
+	url = https://github.com/vdumoulin/conv_arithmetic.git

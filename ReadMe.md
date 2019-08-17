@@ -25,6 +25,9 @@
   * [Tabular Data Learner Rosmann](./nbs/)
   * [Pets Revisited](./nbs/dl1/Lesson6-Pets-more.ipynb)
 
+7. Lesson7:
+  * [Residual block for Mnist](./nbs/dl1/lesson7_resnet_mnist.ipynb)
+
 
 # Numerical Linear algebra
 1. [Topic modeling](./nbs/numerical_linear_algebra/2. Topic Modeling with NMF and SVD.ipynb)
