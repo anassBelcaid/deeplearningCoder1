@@ -27,6 +27,8 @@
 
 7. Lesson7:
   * [Residual block for Mnist](./nbs/dl1/lesson7_resnet_mnist.ipynb)
+  * [Generative Adversarial network for super
+      resolution](../my_repo/nbs/dl1/Lesson7-supper_resolution_gan.ipynb)
 
 
 # Numerical Linear algebra
